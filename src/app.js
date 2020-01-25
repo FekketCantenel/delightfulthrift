@@ -20,7 +20,7 @@ require.config({
         underscore: '../node_modules/underscore/underscore',
         backbone: '../node_modules/backbone/backbone',
         backboneLocalstorage:
-            '../node_modules/backbone.localstorage/backbone.localStorage'
+            '../node_modules/backbone-localstorage/backbone-localstorage'
     }
 });
 

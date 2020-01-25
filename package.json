@@ -9,6 +9,7 @@
         "js",
         "jquery"
     ],
+    "repository": "https://github.com/FekketCantenel/delightfulthrift",
     "author": "FekketCantenel",
     "license": "ISC",
     "dependencies": {
@@ -16,7 +17,7 @@
         "requirejs": "^2.3",
         "underscore": "^1.7.0",
         "backbone": "^1.4",
-        "backbone.localstorage": "^2",
+        "backbone-localstorage": "^0",
         "request": "^2",
         "moment": "^2",
         "bootstrap": "^4",
